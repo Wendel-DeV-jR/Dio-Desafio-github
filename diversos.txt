@@ -1,0 +1,2 @@
+treinando o terminal:git clone,cd dio-desafio-github/,git status
+https://git-scm.com/downloads
